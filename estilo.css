@@ -1,0 +1,35 @@
+body{
+    Margin: 0;
+    font-family: "Times Roman", 'Times New Roman', Times, serif 
+    
+}
+ header{
+        height: 40px;
+        background-color: cadetblue;
+        color: white;
+        display: flex;
+        align-items: center;
+        padding-left: 35px;
+ }
+
+ .cuadroPrincipal{
+
+
+
+  
+    
+
+ }
+
+ .caja_foto_perfil{
+ 
+    width: 200px;
+    height: 200px;
+
+ }
+ .foto_perfil{
+ 
+    width: 200px;
+    height: 200px;
+
+ }
